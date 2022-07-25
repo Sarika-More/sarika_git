@@ -1,7 +1,1 @@
-
-first line inside a.txt
-
-
-
-
-second line
+this is third line
